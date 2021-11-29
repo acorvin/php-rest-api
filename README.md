@@ -13,4 +13,8 @@ Alex Corvin
 ### Version 
 1.0
 
+### License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ![App image](images/php-rest-api-postman.png)
